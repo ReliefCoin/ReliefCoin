@@ -1,6 +1,6 @@
 src/*.exe
 src/ReilefCoin
-src/test_Reliefcoin
+src/test_ReliefCoin
 src/build.h
 .*.swp
 *.*~*
